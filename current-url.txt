@@ -1,1 +1,1 @@
-https://specify-nhs-hospitals-payments.trycloudflare.com
+https://api.trycloudflare.com
