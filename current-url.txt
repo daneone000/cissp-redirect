@@ -1,1 +1,1 @@
-https://appearance-perry-might-watershed.trycloudflare.com
+https://api.trycloudflare.com
