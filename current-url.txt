@@ -1,1 +1,1 @@
-https://picture-nurses-iso-chances.trycloudflare.com
+https://api.trycloudflare.com
