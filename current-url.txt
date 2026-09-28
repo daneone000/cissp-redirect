@@ -1,1 +1,1 @@
-https://privilege-amendments-towers-justify.trycloudflare.com
+https://api.trycloudflare.com
